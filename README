@@ -1,0 +1,10 @@
+Compilation instructions:
+   run ./cudaCompile
+
+Running instructions:
+   ./cudagenpmk
+
+usage:
+   ./cudagenpmk 
+   
+   
